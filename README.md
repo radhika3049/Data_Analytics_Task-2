@@ -1,5 +1,5 @@
-# Data_Analytics_Task-2
-PROBLEM STATEMENT-1
+# Data_Analytics_Task-2 PROBLEM STATEMENT1
+
 Part 1:
 
 As a data analysis intern, I am provided with a general store transaction dataset. I need to do the following operations.
